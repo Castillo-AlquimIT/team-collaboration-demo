@@ -1,2 +1,3 @@
-# team-collaboration-demo
-A Sample project for Git Teamwork
+# About Me
+
+Hello! My name is Princess Tanoy, and I worked on the frontend
